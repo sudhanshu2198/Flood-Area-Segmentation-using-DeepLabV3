@@ -22,27 +22,7 @@ Drone technoloy can play a pivotal role in timely humanitarian assistance delive
 - [Kaggle Notebook](https://www.kaggle.com/code/sudhanshu2198/flood-area-segmentation-using-deeplabv3-pytorch/notebook)
 
 ## 🛠 Skills
-Numpy, Matplotlib, OpenCV, Pytorch, torchvision, albumentations
-
-## Directory Tree
-```bash
-
-├── artifacts
-│   ├── encoder.pkl
-│   │── mlb.pkl
-│   └── model.pkl 
-├── pages
-│   ├── Prediction.py
-│   └── Visualization.py
-├── resources
-│   ├── display.csv
-│   └── images.jpg
-│    
-├── Introduction.py
-├── README.md
-├── kaggle_Notebook.ipynb
-└── requirements.txt
-```
+Numpy, Matplotlib, Pandas, OpenCV, Pytorch, torchvision, albumentations
 
 ## Visualization
 ![](https://i.ibb.co/zSm0ZQf/op3.png)
