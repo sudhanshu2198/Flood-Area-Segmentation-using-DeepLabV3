@@ -2,7 +2,7 @@
 
 # Flood Area Segmentation using DeepLabV3
 
-Rapid urbanization, population growth, and extreme climate change have led to frequent flooding events, posing challenges for many countries around the world. The impacts of floods include loss of life, damage to property, and deterioration of health conditions.
+Rapid urbanization, population growth, and extreme climate change have led to frequent flooding event, posing challenges for many countries around the world. The impacts of floods include loss of life, damage to property, and deterioration of health conditions.
 
 ![](https://i.ibb.co/gdXy4NB/opo.png)
 
